@@ -1,0 +1,8 @@
+Problem statement: Create an application that:
+
+1) Allows the user to input a list of foods and quanity of each.
+2) Access the USDA API to pull down the nutritional information. 
+3) Should be able to break the nutritional info down by porttion size
+4) Output a printable nutritional information label. 
+
+
