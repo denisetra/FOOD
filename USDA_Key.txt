@@ -1,0 +1,18 @@
+USDA Key
+
+Nutrient Database API Signup
+Close
+Your API key for denisetra@comcast.net is:
+
+GskgvLdgJptkBE3r6WWX8bRGDgaKwy9UexF4oWTt
+You can start using this key to make web service requests. 
+Simply pass your key in the URL when making a web request. 
+Here's an example:
+
+https://developer.nrel.gov/api/alt-fuel-stations/v1/nearest.json?api_key=GskgvLdgJptkBE3r6WWX8bRGDgaKwy9UexF4oWTt&location=Denver+CO
+For additional support, please contact us. 
+When contacting us, please tell us what API you're accessing and provide the following account details 
+so we can quickly find you:
+
+Account Email: denisetra@comcast.net
+Account ID: 95e636bc-2470-4f2b-8730-7ec96c9f4169
